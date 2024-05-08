@@ -2,4 +2,5 @@ function additionCalculator(a, b) {
     return a + b;
   }
   
-  module.exports = additionCalculator;
+  // module.exports = additionCalculator;
+  export default additionCalculator
